@@ -1,0 +1,32 @@
+[
+  {
+    "tool_img": "https://res.cloudinary.com/dmggxghiw/image/upload/v1683620226/botanique/pH_joynyk.svg",
+    "tool_title": "pH-метр Mettler-Toledo International, Inc. SevenCompact S220",
+    "tool_status": true,
+    "tool_notification": "bell fa-sharp fa-solid fa-bell"
+  },
+  {
+    "tool_img": "https://res.cloudinary.com/dmggxghiw/image/upload/v1683620226/botanique/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80_lvzjk1.svg",
+    "tool_title": "Спектрофотометр Varian, Inc Cary 50 Bio",
+    "tool_status": true,
+    "tool_notification": "bell fa-sharp fa-solid fa-bell"
+  },
+  {
+    "tool_img": "https://res.cloudinary.com/dmggxghiw/image/upload/v1683620226/botanique/%D0%A2%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80_xm759d.svg",
+    "tool_title": "Титратор ",
+    "tool_status": true,
+    "tool_notification": "fa-regular fa-bell"
+  },
+  {
+    "tool_img": "https://res.cloudinary.com/dmggxghiw/image/upload/v1683620226/botanique/%D0%9A%D0%BE%D0%B0%D0%B3%D1%83%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80_gjqueb.svg",
+    "tool_title": "Коагулометр Tcoag, KC 4 Delta",
+    "tool_status": true,
+    "tool_notification": "bell fa-solid fa-bell-slash"
+  },
+  {
+    "tool_img": "https://res.cloudinary.com/dmggxghiw/image/upload/v1683620226/botanique/%D0%9A%D0%BE%D0%B0%D0%B3%D1%83%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80_gjqueb.svg",
+    "tool_title": "Коагулометр Tcoag, KC 4 Delta",
+    "tool_status": false,
+    "tool_notification": "bell fa-solid fa-bell-slash"
+  }
+]

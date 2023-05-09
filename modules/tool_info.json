@@ -1,0 +1,67 @@
+[
+  {
+    "tool_title": "pH-метр Mettler-Toledo International, Inc. SevenCompact S220",
+    "start_at": "09.10.2021, 15:46",
+    "end_at": "19.10.2021, 15:46",
+    "work_type": "Измерение",
+    "works": {
+      "Образец/серия:": "000100057935_170000010325_0000251849"
+    },
+    "result": "",
+    "is_working": true,
+    "username": "morozovava"
+  },
+
+  {
+    "tool_title": "pH-метр Mettler-Toledo International, Inc. SevenCompact S220",
+    "start_at": "12.10.2021, 12:17",
+    "end_at": "28.10.2021, 15:46",
+    "work_type": "Калибровка",
+    "works": {
+      "Номер колонки:": "Колонка 2",
+      "Образец:": "Образец 2",
+      "Метод:": "Колонка 1"
+    },
+    "result": "Промывка с указанием вещества: Вещество",
+    "is_working": true,
+    "username": "morozovava"
+  },
+  {
+    "tool_title": "Титратор ",
+    "start_at": "19.10.2021, 15:46",
+    "end_at": "29.10.2021, 15:46",
+    "work_type": "Калибровка",
+    "works": {
+      "Образец/серия:": "000100057935_170000010325_0000251849"
+    },
+    "result": "",
+    "is_working": true,
+    "username": "morozovava"
+  },
+  {
+    "tool_title": "Коагулометр Tcoag, KC 4 Delta",
+    "start_at": "22.10.2021, 12:17",
+    "end_at": "28.10.2021, 15:46",
+    "work_type": "Калибровка",
+    "works": {
+      "Номер колонки:": "Колонка 2",
+      "Образец:": "Образец 2",
+      "Номер колонки:": "Колонка 1"
+    },
+    "result": "Промывка с указанием вещества: Вещество",
+    "is_working": true,
+    "username": "morozovava"
+  },
+  {
+    "tool_title": "Коагулометр Tcoag, KC 4 Delta",
+    "start_at": "09.10.2021, 15:46",
+    "end_at": "19.10.2021, 15:46",
+    "work_type": "Измерение",
+    "works": {
+      "Образец/серия:": "000100057935_170000010325_0000251849"
+    },
+    "result": "",
+    "is_working": true,
+    "username": "morozovava"
+  }
+]
